@@ -26,9 +26,9 @@ body{
 }
 
 .screen{
-    height: 230px;
+    height: 225px;
     width: 100%;
-    box-shadow: 0 8px 30px -8px black;
+    box-shadow: 0 2px 40px 0px #080808;
     border-radius: 0 0 8px 8px;
 }
 
@@ -50,7 +50,7 @@ body{
 }
 
 .space{
-    height: 40px;
+    height: 50px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -68,7 +68,7 @@ body{
 .interaction{
     height: 370px;
     width: 336px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -82,13 +82,13 @@ body{
     width: 90%;
 }
 .buttons{
-    height: 65px;
-    width: 65px;
+    height: 58px;
+    width: 58px;
     border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #4040401a;
+    border: 1px solid #1616162b;
     box-shadow: -5px -8px 10px 0px rgba(255, 255, 255, 0.03), 5px 5px 10px 2px #00000080;
 }
 
